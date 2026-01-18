@@ -17,7 +17,8 @@ The goal of this portfolio piece is to demonstrate my ability to:
 
 ## Technical Stack
 * **Language:** Python
-* **Libraries:** * `nba_api`: To fetch live player and team statistics.
+* **Libraries:** 
+    * `nba_api`: To fetch live player and team statistics.
     * `pandas`: For data cleaning, merging, and filtering.
     * `matplotlib` & `seaborn`: For creating statistical charts and correlation heatmaps.
     * `numpy`: For handling numerical operations.
@@ -60,4 +61,5 @@ I calculated the **3-Point Attempt Rate** to see how the league's shot selection
 * **Veteran Consistency:** While raw scoring (PPG) often peaks in the mid-20s, True Shooting efficiency remains remarkably stable for star players into their early 30s.
 
 ---
+
 
